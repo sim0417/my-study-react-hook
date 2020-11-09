@@ -1,6 +1,6 @@
-# Learn React Hook
+# Learn React Hooks (useContext and useReducer)
 
-Learning REACT-Hook.
+Redux Clone using React Hooks
 
 ## Index
 
